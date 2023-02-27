@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c61fe05b.css",
-    "main.js": "/static/js/main.75aa1690.js",
-    "static/media/hero-screenshot-1.png": "/static/media/hero-screenshot-1.40a097b525c2f8c9808e.png",
-    "static/media/hero-screenshot-2.png": "/static/media/hero-screenshot-2.241aac1fbc66db29d873.png",
-    "static/media/design-illustration-2.svg": "/static/media/design-illustration-2.6da6a00b20c07c4a9b65d1870679e1b8.svg",
+    "main.js": "/static/js/main.3e999bd5.js",
     "static/media/customers-logo-strip.png": "/static/media/customers-logo-strip.680ac7c2e8ae28161d2c.png",
     "static/media/prototype-illustration.svg": "/static/media/prototype-illustration.21bc4b3f612a2f257c3d361067582485.svg",
+    "static/media/undraw_home_screen_re_640d.svg": "/static/media/undraw_home_screen_re_640d.ced77651cfb30b7a445f25c6d1e03ff6.svg",
     "static/media/team-illustration-2.svg": "/static/media/team-illustration-2.76aa0427e037826d4453f8791ee544e3.svg",
     "static/media/dot-pattern.svg": "/static/media/dot-pattern.ee6f4f0e6654d6e38850896165f9dc36.svg",
+    "static/media/undraw_data_trends_re_2cdy.svg": "/static/media/undraw_data_trends_re_2cdy.20c6eb3d1fb2a20716cc9ddaf7e06d77.svg",
     "static/media/love-illustration.svg": "/static/media/love-illustration.c759090fa833369ad6ffb6eb19cacb3e.svg",
+    "static/media/undraw_devices_re_dxae.svg": "/static/media/undraw_devices_re_dxae.6dfb86ff6d7189dab5d641d94641b13f.svg",
+    "static/media/undraw_mobile_feed_re_72ta.svg": "/static/media/undraw_mobile_feed_re_72ta.efd0546539a2f85ca2de3669da5939f4.svg",
     "index.html": "/index.html",
     "static/media/svg-decorator-blob-3.svg": "/static/media/svg-decorator-blob-3.de3cee31b9fcddf16b65056335c6f8e0.svg",
     "static/media/svg-decorator-blob-6.svg": "/static/media/svg-decorator-blob-6.ea7897a9cabd18823c4ab12c47c149b9.svg",
@@ -37,10 +38,10 @@
     "static/media/arrow-left-3-icon.svg": "/static/media/arrow-left-3-icon.d48c6bae447f4492e1860f8a253007c8.svg",
     "static/media/arrow-right-3-icon.svg": "/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "main.c61fe05b.css.map": "/static/css/main.c61fe05b.css.map",
-    "main.75aa1690.js.map": "/static/js/main.75aa1690.js.map"
+    "main.3e999bd5.js.map": "/static/js/main.3e999bd5.js.map"
   },
   "entrypoints": [
     "static/css/main.c61fe05b.css",
-    "static/js/main.75aa1690.js"
+    "static/js/main.3e999bd5.js"
   ]
 }
