@@ -1,6 +1,6 @@
 {
-  "short_name": "Treact",
-  "name": "Treact - Modern React Templates and Components for building Landing Pages",
+  "short_name": "Pelom",
+  "name": "Pelom app - Software para digitalizar la interaccion con tus clientes.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "images/pelomlogo.png",
+      "src": "images/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/pelomlogo.png",
+      "src": "images/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
